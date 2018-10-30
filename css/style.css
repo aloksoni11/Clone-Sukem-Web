@@ -1,0 +1,335 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.head {
+    height: 60px;
+    width: 100%;
+    background-color: orange;
+    position: relative;
+}
+
+.logo {
+    height: 100%;
+    width: 60px;
+    background-color: green;
+    position: absolute;
+    left: 40px;
+}
+
+.menuicon {
+    height: 100%;
+    width: 60px;
+    background-color: red;
+    position: absolute;
+    right: 40px;
+}
+
+.first {
+    height: 100%;
+    width: 100%;
+    background-color: pink;
+    position: relative;
+}
+
+.texthead {
+    height: 20%;
+    width: 40%;
+    background-color: orange;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 20%;
+}
+
+.textcontain {
+    height: 30%;
+    width: 60%;
+    background-color: purple;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 32%;
+    bottom: 0;
+}
+
+.second {
+    overflow: auto;
+    width: 100%;
+    background-color: purple;   
+}
+
+.sleft {
+    height: 100%;
+    width: 20%;
+    float: left;
+
+}
+
+.sright {
+    height: 100%;
+    width: 80%;
+    background-color: white;
+    float: right;
+}
+
+.one {
+    height: 200px;
+    width: 80%;
+    background-color: aqua;
+    margin: 80px;
+    margin-top: 100px;
+}
+
+.two {
+    overflow: auto;
+    width: 100%;
+    background-color: ;
+}
+
+.left {
+    height: 300px;
+    width: 40%;
+    background-color: blueviolet;
+    float: left;
+    margin: 15px;
+}
+
+.right {
+    height: 300px   ;
+    width: 40%;
+    background-color: blueviolet;
+    float: right;
+    margin: 5%;
+}
+
+.three{
+    overflow: auto;
+    width: 100%;
+    background-color: ;
+}
+.Tone{
+    height: 200px;
+    width: 30%;
+    background-color: purple;
+    float: left;
+    margin: 15px;
+}
+.Ttwo{
+    height: 200px;
+    width: 30%;
+    background-color: purple;
+    float: left;
+    margin: 15px;
+    margin: 15px;
+}
+.Tthree{
+     height: 200px;
+    width: 30%;
+    background-color: purple;
+    float: left;
+    margin: 15px;
+}
+.four{
+    overflow: auto;
+    width: 100%;
+    background-color: ;
+}
+.Fleft{
+    height: 200px;
+    width: 40%;
+    float: left;
+    background-color: brown;
+    margin: 20px;
+}
+.Fright{
+    height: 200px;
+    width:40%;
+    float: right;
+    background-color: cyan;
+    margin: 20px;    
+}
+.title{
+    height: 100px;
+    width: 80%;
+    background-color: red;
+    margin: auto;
+    margin-top: 100px;
+}
+.Third{
+    overflow: auto;
+    width: 100%;
+    background-color: aqua;
+}
+.Tleft{
+    overflow: auto;
+    width: 80%;
+    float: left;
+    background-color: aliceblue;
+}
+.Tright{
+    height: 100%;
+    width: 20%;
+    background-color: ;
+    float: right;
+}
+.Thead{
+    height: 200px;
+    width: 80%;
+    background-color:coral;
+    margin: 80px;
+    margin-top: 100px;
+}
+.Tcontain{
+    width: 100%;
+    height: 500px;
+    background-color:;
+}
+.Cleft{
+    height: 100%;
+    width: 40%;
+    background-color: orange;
+    float: left;
+    
+}
+.Cright{
+    height: 100%;
+    width: 60%;
+    background-color:;
+    float: right;
+ 
+}
+.Cone{
+    height: 200px;
+    width: 80%;
+    background-color: red;
+    margin: 30px;
+    
+}
+.Ctwo{
+    height: 200px;
+    width: 80%;
+    background-color: red;
+    margin: 30px;
+}
+.Clefts{
+    height: 100%;
+    width: 60%;
+    background-color:;
+    float: left;
+    
+}
+.Crights{
+    height: 100%;
+    width: 40%;
+    background-color:orange;
+    float: right;
+ 
+}
+.Tcontains{
+    width: 100%;
+    height: 500px;
+    background-color:;
+}
+.Fourth{
+    background-color: orange;
+    overflow: auto;
+    width: 100%;
+}
+.FTContainer{
+    width: 80%;
+    overflow: auto;
+    background-color: greenyellow;  
+    margin: auto;
+}
+.FTone{
+    height: 400px;
+    width: 25%;
+    background-color: aqua;
+    float: left;
+    margin: 4%;
+}
+.FTtwo{
+    height:400px;
+    width:25%;
+    background-color: aqua;
+    float: left;
+    margin: 4%;
+}
+.FTthree{
+    height: 400px;
+    width: 25%;
+    background-color:aqua;
+    float: left;
+    margin: 4%;
+}
+.Fifth{
+    overflow: auto;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+.Fcontainer{
+    width: 80%;
+    background-color: aqua;
+    overflow: auto;
+    margin: auto;
+}
+.left {
+    height: 300px   ;
+    width: 40%;
+    background-color: blueviolet;
+    float: left;
+    margin: 5%;
+}
+.sContainer{
+    overflow: auto;
+    width: 80%;
+    background-color: ;
+    margin: auto;
+}
+.Scon{
+    height:200px;
+    width: 90%;
+    background-color: purple;
+    margin: auto;
+}
+.Rightlong{
+    height: 700px;
+    width:40%;
+    background-color: purple;
+    float: right;
+    margin-top: 50px;
+    margin-right: 80px;
+}
+.contain{
+    width: 100%;
+    overflow: auto;
+    margin: auto;
+    background: orange;
+}
+.feedback{
+    width: 100%;
+    overflow: auto;
+    background-color: darkgrey;
+}
+.feedblock{
+    width: 80%;
+    height: 400px;
+    background-color: orange;
+    margin: auto;
+}
+.Lhead
+{
+    height: 200px;
+    width: 80%;
+    background-color:coral;
+    margin: auto;
+    margin-top: 150px;
+    
+}
