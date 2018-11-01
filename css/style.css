@@ -333,3 +333,14 @@ body {
     margin-top: 150px;
     
 }
+.up{
+    height: 50px;
+    width: 50px;
+    background-color: dimgrey;
+    position: fixed;
+    z-index: 5;
+    right: 0;
+    bottom: 30px;
+    border-radius: 50px;
+    
+    }
